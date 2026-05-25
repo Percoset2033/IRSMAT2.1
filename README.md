@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/платформа-Web%20%7C%20Android-blueviolet"></a>
-  <a href="#"><img src="https://img.shields.io/badge/для%20детей-1–4%20класс-orange"></a>
+  <a href="#"><img src="https://img.shields.io/badge/для%20детей-1–7%20класс-orange"></a>
 </p>
 
 <p align="center">
