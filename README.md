@@ -1,20 +1,23 @@
 # IRSMAT-2.1
 
 <p align="center">
-  <img width="512" height="512" alt="IRSMat_icon" src="https://github.com/user-attachments/assets/6cc33469-0c6d-4b3e-805b-06f151efde13&quot; />
+  <img width="512" height="512" alt="IRSMat_icon" src="https://github.com/user-attachments/assets/6cc33469-0c6d-4b3e-805b-06f151efde13" />
 
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/платформа-Web%20%7C%20Android-blueviolet"></a&gt;
-  <a href="#"><img src="https://img.shields.io/badge/для%20детей-1–4%20класс-orange"></a&gt;
+  <a href="#"><img src="https://img.shields.io/badge/платформа-Web%20%7C%20Android-blueviolet"></a>
+  <a href="#"><img src="https://img.shields.io/badge/для%20детей-1–4%20класс-orange"></a>
 </p>
+
+<p align="center">
 Игра для математических уравнений для детей 1-7 класс ОБНОВЛЕНИЕ  И  ИСПРАВЛЕНИЕ БАГОВ
 
 Поиграть в нашу игру теперь можно через браунзер пк/телефон через ссылку на GITHUB: https://percoset2033.github.io/IRSMAT-2.0/
 
 Для андроида есть APK FILE: 
 
+<p align="center">
 Что было исправлено и добавлено в версия 2.1:
 
 Интеграция геймификации и мотивации: добавлен мультипликатор за серию правильных ответов, который увеличивает награду и стимулирует игроков на поддержание серии. Реализовано отображение текущей серии, рекорда серий и активных бонусов.
