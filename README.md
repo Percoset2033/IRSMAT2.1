@@ -13,7 +13,7 @@
 <p align="center">
 Игра для математических уравнений для детей 1-7 класс ОБНОВЛЕНИЕ  И  ИСПРАВЛЕНИЕ БАГОВ
 
-Поиграть в нашу игру теперь можно через браунзер пк/телефон через ссылку на GITHUB: https://percoset2033.github.io/Percoset2033-IRSMAT-2.1//
+Поиграть в нашу игру теперь можно через браунзер пк/телефон через ссылку на GITHUB: https://percoset2033.github.io/Percoset2033-IRSMAT-2.1/
 
 Для андроида есть APK FILE: https://disk.yandex.ru/d/yNsb5AyYAVljlw
 
